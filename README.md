@@ -10,10 +10,13 @@ TesTugas1 RerataNilai<br>
 ![alt text](https://github.com/Raditya44/Jobsheet4/blob/master/reratanilai.PNG)<br>
 Hewan Kucing dan Singa<br>
 ![alt text](https://github.com/Raditya44/Jobsheet4/blob/master/karnivora.PNG)<br>
+B. ABSTRACT<br>
 Abstract Sample<br>
 ![alt text](https://github.com/Raditya44/Jobsheet4/blob/master/abstractsample.PNG)<br>
+C. INTERFACE<br>
 Interface Sample<br>
 ![alt text](https://github.com/Raditya44/Jobsheet4/blob/master/interfacesample.PNG)<br>
+TUGAS PRAKTIKUM<br>
 Tugas Praktikum 1<br>
 ![alt text](https://github.com/Raditya44/Jobsheet4/blob/master/TP1.PNG)<br>
 Tugas Praktikum 2<br>
